@@ -1,6 +1,5 @@
 [package]
 description = Provides additional core configurations for Bro and Corelight
 script_dir = scripts
-version = 1.2.0
 depends =
   bro >=2.5.0
