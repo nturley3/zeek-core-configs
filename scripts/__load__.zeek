@@ -1,5 +1,5 @@
-# @load ./dpd.bro
-@load ./registerports.bro
-@load ./httpcookies.bro
-@load ./software_load.bro
-@load ./extendNTLM.bro
+# @load ./dpd.zeek
+@load ./registerports.zeek
+@load ./httpcookies.zeek
+@load ./software_load.zeek
+@load ./extendNTLM.zeek
