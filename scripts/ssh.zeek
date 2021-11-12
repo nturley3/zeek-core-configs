@@ -1,4 +1,4 @@
-##! Extracts and logs variable names from cookies sent by clients.
+##! Extends the SSH log to faciliate authentication threat hunting.
 
 # @load base/protocols/ssh/main
 
