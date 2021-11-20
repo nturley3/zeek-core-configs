@@ -7,7 +7,7 @@ Not all scripts are useful in every environment.
 | extendNTLM.zeek | Extend the NTLM log to record the NTLM and LM negotiation flags. |
 | httpcookies.zeek | Extracts and logs variable names from cookies sent by clients. |
 | registerports.zeek | Force Zeek to try using the HTTP analyzer on a nonstandard HTTP port. |
-| software_load.zeek | Loads addiitional softawre scripts that Corelight does not enabled by default. |
+| software_load.zeek | Loads additional softawre scripts that Corelight does not enabled by default. |
 | ssh.zeek | Extends the SSH log to faciliate authentication threat hunting. |
 
 ## Installation/Upgrade
