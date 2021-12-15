@@ -2,4 +2,4 @@
 description = Provides additional core configurations for Zeek and Corelight
 script_dir = scripts
 depends =
-  bro >=2.5.0
+  zeek >=3.0.0
